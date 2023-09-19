@@ -1,0 +1,27 @@
+{
+    "language_code": "ku",
+    "english_name": "Kurmanji",
+    "worksheets": [
+        {
+            "page": "God's_Story_(first_and_last_sacrifice)",
+            "title": "\u00c7\u00eerok\u00ea Xwed\u00ea",
+            "filename": "\u00c7\u00eerok\u00ea_Xwed\u00ea.html",
+            "version": "1.5",
+            "pdf": "\u00c7\u00eerok\u00ea_Xwed\u00ea.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "Zan\u00een\u00ean xwendina Kit\u00eaba P\u00eeroz",
+            "filename": "Zan\u00een\u00ean_xwendina_Kit\u00eaba_P\u00eeroz.html",
+            "version": "2.0",
+            "pdf": "Zan\u00een\u00ean_xwendina_Kit\u00eaba_P\u00eeroz.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Starting_with_the_Creation)",
+            "title": "Zan\u00een\u00ean xwendina Kit\u00eaba P\u00eeroz",
+            "filename": "Zan\u00een\u00ean_xwendina_Kit\u00eaba_P\u00eeroz.html",
+            "version": "2.0",
+            "pdf": "Zan\u00een\u00ean_xwendina_Kit\u00eaba_P\u00eeroz.pdf"
+        }
+    ]
+}
